@@ -1,0 +1,22 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "menu responsive forked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahuutin/ResponsiveMultiLevelMenu.git"
+  },
+  "keywords": [
+    "menu"
+  ],
+  "author": "hahuutin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahuutin/ResponsiveMultiLevelMenu/issues"
+  },
+  "homepage": "https://github.com/hahuutin/ResponsiveMultiLevelMenu#readme"
+}
